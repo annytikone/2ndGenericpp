@@ -12,5 +12,5 @@ app.listen(3000, () => {
   );
 });
 
-const sayHello = 'airbnb    rule';
-console.log(sayHello);
+const say_hello = 'airbnb    rule';
+console.log(say_hello);
